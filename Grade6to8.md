@@ -51,8 +51,84 @@
    - **Location:** USC campus and virtual sessions.
    - **Duration:** Six weeks.
    - **Cost:** Free [source](https://viterbik12.usc.edu/summer-programs-4/).
+  
+# More Programs
 
-10. **Carnegie Mellon C-MITES:**
+Here's a detailed overview of various STEM summer programs for high school students in Grades 11-12, including short descriptions, locations, eligibility criteria, and costs:
+
+### 1. iD Tech Camps
+- **Description:** Offers a variety of STEM programs, including coding, game development, robotics, and artificial intelligence.
+- **Location:** Various university campuses across the US, including Stanford, MIT, and others.
+- **Eligibility:** Students ages 7-17.
+- **Cost:** Varies by program and location, generally ranging from $800 to $1,500 per week.
+- **More Information:** [iD Tech Camps](https://www.idtech.com)【27†source】【28†source】【29†source】.
+
+### 2. Camp Invention
+- **Description:** A program of the National Inventors Hall of Fame, focusing on STEM, innovation, and entrepreneurship.
+- **Location:** Various locations nationwide.
+- **Eligibility:** Elementary and middle school students, primarily targeting grades K-6.
+- **Cost:** Approximately $245 per week, varies by location.
+- **More Information:** [Camp Invention](https://www.invent.org/programs/camp-invention).
+
+### 3. Girls Who Code Summer Immersion Program
+- **Description:** A free program specifically for girls, teaching computer science skills and providing exposure to tech jobs.
+- **Location:** Multiple cities across the US (also virtual options).
+- **Eligibility:** Girls entering 10th-12th grade.
+- **Cost:** Free.
+- **More Information:** [Girls Who Code](https://girlswhocode.com/programs/summer-immersion-program).
+
+### 4. Destination Science
+- **Description:** Hands-on science camps with themes like robotics, space, and nature, available in several states.
+- **Location:** Various locations in California, Texas, and Washington.
+- **Eligibility:** Students entering grades K-6.
+- **Cost:** Approximately $450 per week.
+- **More Information:** [Destination Science](https://destinationscience.org).
+
+### 5. Digital Media Academy
+- **Description:** Tech camps covering topics like 3D modeling, app development, and machine learning.
+- **Location:** Various university campuses, including Stanford, Harvard, and others.
+- **Eligibility:** Students ages 9-18.
+- **Cost:** Varies by program and location, generally around $1,000 to $2,000 per week.
+- **More Information:** [Digital Media Academy](https://www.digitalmediaacademy.org).
+
+### 6. Alexa Café
+- **Description:** All-girls tech camps focusing on STEM subjects with an emphasis on social impact.
+- **Location:** Various locations nationwide.
+- **Eligibility:** Girls ages 10-15.
+- **Cost:** Approximately $1,000 per week.
+- **More Information:** [Alexa Café](https://www.idtech.com/alexa-cafe).
+
+### 7. Emagination Tech Camps
+- **Description:** Blends technology learning with traditional summer camp activities. Offers both day and overnight options.
+- **Location:** Various locations including Boston College, Fairfield University, and others.
+- **Eligibility:** Students ages 8-17.
+- **Cost:** Day camps around $1,200 per week; overnight camps approximately $1,600 per week.
+- **More Information:** [Emagination Tech Camps](https://www.emaginationtechcamps.com).
+
+### 8. MathPath
+- **Description:** An intensive summer program for students who excel in mathematics, held at different college campuses each year.
+- **Location:** Varies each year.
+- **Eligibility:** Students ages 11-14.
+- **Cost:** Approximately $4,500 for a four-week program.
+- **More Information:** [MathPath](http://www.mathpath.org).
+
+### 9. Johns Hopkins Center for Talented Youth (CTY)
+- **Description:** Offers a variety of challenging academic programs, including many STEM-focused courses.
+- **Location:** Various locations, including Johns Hopkins University, and others.
+- **Eligibility:** Students in grades 7-12, based on qualifying test scores.
+- **Cost:** Varies by program; approximately $4,500 for a three-week residential program.
+- **More Information:** [CTY](https://cty.jhu.edu).
+
+### 10. Space Camp
+- **Description:** Held at the U.S. Space & Rocket Center, offering hands-on space and flight-related activities.
+- **Location:** Huntsville, Alabama.
+- **Eligibility:** Students ages 9-18.
+- **Cost:** Approximately $1,300 to $1,600 for a six-day program.
+- **More Information:** [Space Camp](https://www.spacecamp.com).
+
+These programs offer a range of STEM learning opportunities, from coding and robotics to space exploration and advanced mathematics, helping students gain valuable skills and experiences in their fields of interest.
+
+11. **Carnegie Mellon C-MITES:**
     - **Description:** Programs and workshops in mathematics, science, and technology for academically talented middle school students.
     - **Focus Areas:** Advanced STEM topics, problem-solving, and critical thinking.
     - **Location:** Carnegie Mellon University, Pittsburgh, PA.
