@@ -103,3 +103,77 @@
     - **Location:** Multiple Google offices across the US.
     - **Eligibility:** Graduating high school seniors entering university.
     - **Focus:** Computer science, coding, tech industry exposure.
+
+# More Programs:
+
+Here are the details for the various STEM summer programs for high school students in Grades 11-12:
+
+### 1. Ross Mathematics Program
+- **Description:** An intensive six-week summer mathematics program designed to encourage high school students to explore advanced mathematical concepts.
+- **Location:** Ohio State University and Rose-Hulman Institute of Technology.
+- **Eligibility:** High school students aged 14-18.
+- **Cost:** $6,000, with scholarships available.
+- **More Information:** [Ross Mathematics Program](https://rossprogram.org)【35†source】【36†source】【39†source】.
+
+### 2. Research Science Institute (RSI)
+- **Description:** A prestigious six-week program at MIT that combines on-campus coursework in scientific theory with research internships.
+- **Location:** Massachusetts Institute of Technology (MIT), Cambridge, MA.
+- **Eligibility:** High school juniors.
+- **Cost:** Free, excluding transportation.
+- **More Information:** [RSI](https://cee.org/research-science-institute).
+
+### 3. Telluride Association Summer Program (TASP)
+- **Description:** A free six-week educational experience focusing on humanities and social sciences, with some STEM-related seminars.
+- **Location:** Various college campuses.
+- **Eligibility:** High school juniors.
+- **Cost:** Free.
+- **More Information:** [TASP](https://www.tellurideassociation.org/our-programs/high-school-students/summer-program-juniors-tasp/).
+
+### 4. Hampshire College Summer Studies in Mathematics (HCSSiM)
+- **Description:** A six-week intensive program for high school students passionate about mathematics, focusing on advanced math concepts and problem-solving.
+- **Location:** Hampshire College, Amherst, MA.
+- **Eligibility:** High school students.
+- **Cost:** Approximately $3,950.
+- **More Information:** [HCSSiM](https://www.hcssim.org).
+
+### 5. Science Internship Program (SIP) at UC Santa Cruz
+- **Description:** A summer research internship program where high school students work with UC Santa Cruz researchers on real scientific research projects.
+- **Location:** University of California, Santa Cruz.
+- **Eligibility:** High school students.
+- **Cost:** Approximately $3,000, with financial aid available.
+- **More Information:** [SIP](https://sip.ucsc.edu).
+
+### 6. Astronomy Camp at the University of Arizona
+- **Description:** Offers hands-on astronomical observing experiences and education in astronomy for high school students.
+- **Location:** University of Arizona, Tucson, AZ.
+- **Eligibility:** High school students.
+- **Cost:** Approximately $1,400.
+- **More Information:** [Astronomy Camp](https://www.astronomycamp.org).
+
+### 7. Garcia Summer Scholars Program
+- **Description:** A seven-week research program in engineering and science at Stony Brook University, providing hands-on research experience.
+- **Location:** Stony Brook University, Stony Brook, NY.
+- **Eligibility:** High school juniors and seniors.
+- **Cost:** Free, with a stipend provided.
+- **More Information:** [Garcia Program](https://www.stonybrook.edu/commcms/garcia).
+
+### 8. Secondary Student Training Program (SSTP) at University of Iowa
+- **Description:** A five-week residential research program for high school students, offering intensive research experience.
+- **Location:** University of Iowa, Iowa City, IA.
+- **Eligibility:** High school juniors and seniors.
+- **Cost:** Approximately $6,500.
+- **More Information:** [SSTP](https://belinblank.education.uiowa.edu/students/).
+
+### 9. Clark Scholar Program at Texas Tech University
+- **Description:** A summer research program for high school juniors and seniors interested in STEM fields, offering hands-on research experience.
+- **Location:** Texas Tech University, Lubbock, TX.
+- **Eligibility:** High school juniors and seniors.
+- **Cost:** Free, with a $750 stipend.
+- **More Information:** [Clark Scholars](https://www.depts.ttu.edu/honors/academicsandenrichment/clark/).
+
+### 10. Minority Introduction to Engineering and Science (MITES) at Embry-Riddle Aeronautical University
+- **Description:** A summer program focusing on aviation and aerospace engineering for underrepresented minority students.
+- **Location:** Embry-Riddle Aeronautical University, Daytona Beach, FL.
+- **Eligibility:** High school juniors and seniors.
+- **Cost:** Free, with housing and meals included.
+- **More Information:** [MITES](https://www.erau.edu/degrees/summer-programs).
